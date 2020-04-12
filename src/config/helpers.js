@@ -1,4 +1,4 @@
-import { months } from "./consts";
+import { months } from "./const";
 import { red, lightGreen, yellow } from "@material-ui/core/colors";
 
 export function formatPremieredDate(premieredDate, yearOnly) {
